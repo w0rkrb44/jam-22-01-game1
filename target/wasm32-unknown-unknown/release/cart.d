@@ -1,0 +1,1 @@
+/Users/user/code/learning-rust/wasm4-jam-2022-01/jam-22-01-game1/target/wasm32-unknown-unknown/release/cart.wasm: /Users/user/code/learning-rust/wasm4-jam-2022-01/jam-22-01-game1/src/alloc.rs /Users/user/code/learning-rust/wasm4-jam-2022-01/jam-22-01-game1/src/lib.rs /Users/user/code/learning-rust/wasm4-jam-2022-01/jam-22-01-game1/src/wasm4.rs
